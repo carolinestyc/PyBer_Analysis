@@ -13,7 +13,7 @@ In fact, the data shows that urban cities have almost 5 times the number of driv
 
 <img width="585" alt="pyber_summary_table" src="https://user-images.githubusercontent.com/96352625/152709569-ac5f11c8-39bf-4bb0-be7f-5ac6c18122f7.png">
 
-In the multiple line graph below, we can see the pattern in fares by city type across the months of January to April 2019. As discussed previously, total fares are lowest in rural cities and highest in urban cities for all 4 months. Interestingly, each city type does not experience the same ridership pattern. Rural communities saw the highest total fare count in early April but suburban cities saw a spike in late February. Urban cities saw highest usage in late February and then again in early March. Although this graph goes week by week, we may see additional patterns if broken up day by day to see what days of the week saw higher usage. 
+In the multiple line graph below, we can see the pattern in fares by city type across the months of January to April 2019. As discussed previously, total fares are lowest in rural cities and highest in urban cities for all 4 months. Interestingly, each city type does not experience the same ridership pattern. Rural communities saw the highest total fare count in early April but suburban cities saw a spike in late February. Urban cities saw highest usage in late February and then again in early March. Although this graph goes week by week, we may see additional patterns if broken up day by day to see what days of the week experience higher usage. 
 
 ![pyber_fare_summary](https://user-images.githubusercontent.com/96352625/152709589-12b85480-0140-4d7b-938f-4be1bc9f7451.png)
 
